@@ -8,5 +8,10 @@
     { "id": "01.01", "name": "New Year" },
     { "id": "02.14", "name": "Valentine's Day" },
     { "id": "03.08", "name": "International Women's Day" }
-  ]
+  ],
+  "postcards": [
+    { "id": 1, "date": "01.01", "name": "New Year", "body": "🎉✨ Happy New Year! ✨🎉 May 2024 bring you joy, love, and endless reasons to smile! 🌟🎆 Cheers to new beginnings and unforgettable moments! 🥂🎇 Wishing you health, happiness, and magic this year! 🎁❤️ Let’s make it legendary! 🚀✨" },
+    { "id": 2, "date": "02.14", "name": "Valentine's Day", "body": "💘✨ Happy Valentine’s Day! ✨💖 May your day be filled with love, laughter, and sweet surprises! 🍫🌹 Whether you’re celebrating with a partner, friends, or yourself, remember you’re truly special and loved! 💕🌟 Here’s to heartfelt moments and connections that make life brighter! 🥂💞 Sending you hugs and happiness! 🤗💐" },
+    { "id": 3, "date": "03.08", "name": "International Women's Day", "body": "🌸✨ Happy International Women’s Day! ✨🌸 Today we celebrate you—your strength, beauty, and endless inspiration! 💪💖 May your day be filled with love, joy, and the appreciation you truly deserve! 🌷🎉 Here’s to bold dreams, bright smiles, and a world that shines because of you! 🌟🌍 You are amazing! 💐💫" }
+  ],
 }
