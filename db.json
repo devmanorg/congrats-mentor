@@ -10,9 +10,9 @@
     { "id": "03.08", "name": "International Women's Day" }
   ],
   "postcards": [
-    { "id": 1, "date": "01.01", "name": "New Year", "body": "Happy New Year!" },
-    { "id": 2, "date": "02.14", "name": "Valentine's Day", "body": "Happy Valentine’s Day!" },
-    { "id": 3, "date": "03.08", "name": "International Women's Day", "body": "Happy International Women’s Day!" },
+    { "id": 1, "date": "01.01", "name": "New Year", "body": "🎉✨ Happy New Year! ✨🎉" },
+    { "id": 2, "date": "02.14", "name": "Valentine's Day", "body": "💘✨ Happy Valentine’s Day! ✨💖" },
+    { "id": 3, "date": "03.08", "name": "International Women's Day", "body": "🌸✨ Happy International Women’s Day! ✨🌸" },
     { "id": 4, "date": "03.08", "name": "International Women's Day", "body": "Happy International Women’s Day!" }
   ]
 }
