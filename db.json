@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "ПСТО адин" },
+    { "id": 2, "title": "ПСТО адинадин" },
+    { "id": 3, "title": "ПСТО адинадинадин!!!11" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "ЩЯЧЛО ПОПЯЧТСАААаа!!", "postId": 1 },
+    { "id": 2, "body": "УПЯЧКАУПЯЧКА!!!11", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Царь Леонидес"
   }
 }
