@@ -17,3 +17,5 @@ Examples that return the same result:
 - [/postcards?date=03.08](https://my-json-server.typicode.com/devmanorg/congrats-mentor/postcards?date=03.08) -- using the `date` param of the `postcards` object
 - [/holidays/03.08/postcards](https://my-json-server.typicode.com/devmanorg/congrats-mentor/holidays/03.08/postcards) -- using the `holidayId` param of the `postcards` object, that links it with the `holisays` object.
 
+## Deprication
+- The `date` param of `postcards` may be deleted in the future, because `holidayId` is more versatile.
