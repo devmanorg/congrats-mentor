@@ -12,5 +12,5 @@ ULRs:
 - [https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/postcards](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/postcards) - postcards.json
 
 ## Using
-You can send GET response to one of link above. Also you can filter objects in response by url-params.
+You can send GET request to one of the link above. You can also filter objects in response by url-params.  
 Example: [/postcards?date=03.08](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/postcards?date=03.08)
