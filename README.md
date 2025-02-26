@@ -6,7 +6,7 @@
 
 Fork it and change `db.json` values or create a repo with a `db.json` file.
 
-## Endpoints:
+## Endpoints
 - [/mentors](https://my-json-server.typicode.com/devmanorg/congrats-mentor/mentors)
 - [/holidays](https://my-json-server.typicode.com/devmanorg/congrats-mentor/holidays)
 - [/postcards](https://my-json-server.typicode.com/devmanorg/congrats-mentor/postcards)
