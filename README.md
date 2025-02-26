@@ -13,7 +13,7 @@ ULRs:
 
 ## Using
 You can send GET request to one of the link above. You can also filter objects in response by url-params.  
-Examples:
-- [/postcards?date=03.08](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/postcards?date=03.08)
-- [/holidays/03.08/postcards](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/holidays/03.08/postcards) -- using `hilidayId` param of `postcards` object
+Examples that return the same result:
+- [/postcards?date=03.08](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/postcards?date=03.08) -- using the `date` param of the `postcards` object
+- [/holidays/03.08/postcards](https://my-json-server.typicode.com/Eugene-Fed/api-json-mocker-demo/holidays/03.08/postcards) -- using the `holidayId` param of the `postcards` object, that links it with the `holisays` object.
 
