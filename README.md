@@ -19,3 +19,6 @@ Examples that return the same result:
 
 ## Deprication
 - The `date` param of `postcards` may be deleted in the future, because `holidayId` is more versatile.
+
+## Links
+- [OpenAPI Generator installer](https://openapi-generator.tech/docs/installation#pypi) for Python 3.10+
