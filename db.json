@@ -1,19 +1,28 @@
 {
-  "mentors": [
-    { "id": 1, "name": "Иван Петряков", "tg_username": "@i_petr", "bday": "1991-02-23" },
-    { "id": 2, "name": "Катя Иванова", "tg_username": "@katie" },
-    { "id": 3, "name": "Амир Амиров", "tg_username": "@aarr", "bday": "1995-09-01"  }
-  ],
-  "holidays": [
-    { "id": "01.01", "name": "New Year" },
-    { "id": "02.14", "name": "Valentine's Day" },
-    { "id": "03.08", "name": "International Women's Day" }
-  ],
-  "postcards": [
-    { "id": 0, "name": "Birthday", "body": "🎉✨Happy Birthday to YOU!✨🎉" },
-    { "id": 1, "date": "01.01", "holidayId": "01.01", "name": "New Year", "body": "🎉✨ Happy New Year! ✨🎉" },
-    { "id": 2, "date": "02.14", "holidayId": "02.14", "name": "Valentine's Day", "body": "💘✨ Happy Valentine’s Day! ✨💖" },
-    { "id": 3, "date": "03.08", "holidayId": "03.08", "name": "International Women's Day", "body": "🌸✨ Happy International Women’s Day! ✨🌸" },
-    { "id": 4, "date": "03.08", "holidayId": "03.08", "name": "International Women's Day", "body": "Happy International Women’s Day!" }
-  ]
+  "mentors": {
+    "mentors": [
+      { "id": 1, "name": "Евгений Девман", "tg_username": "@eugene_dev", "tg_chat_id": 41878799, "bday": "1991-02-23" },
+      { "id": 2, "name": "Ильмир Devman", "tg_username": "@ilmir_dev", "tg_chat_id": 6467718221 }, 
+      { "id": 3, "name": "Нурбек Девман", "tg_username": "@nurbek_dev", "tg_chat_id": 335075762, "bday": "1991-02-23" },
+      { "id": 4, "name": "Катя Иванова", "tg_username": "@katie", "tg_chat_id": 335000000 },
+      { "id": 5, "name": "Иван Петряков", "tg_username": "@i_petr", "bday": "1991-02-23", "tg_chat_id": 335000001 },
+      { "id": 6, "name": "Амир Амиров", "tg_username": "@aarr", "bday": "1995-09-01", "tg_chat_id": 335000002  }
+    ]
+  },
+  "holidays": {
+    "holidays":  [
+      { "id": "01.01", "name": "New Year" },
+      { "id": "02.14", "name": "Valentine's Day" },
+      { "id": "03.08", "name": "International Women's Day" }
+    ]
+  },
+  "postcards": {
+    "postcards": [
+      { "id": 0, "name": "Birthday", "body": "🎉✨Happy Birthday to YOU!✨🎉" },
+      { "id": 1, "date": "01.01", "holidayId": "01.01", "name": "New Year", "body": "🎉✨ Happy New Year! ✨🎉" },
+      { "id": 2, "date": "02.14", "holidayId": "02.14", "name": "Valentine's Day", "body": "💘✨ Happy Valentine’s Day! ✨💖" },
+      { "id": 3, "date": "03.08", "holidayId": "03.08", "name": "International Women's Day", "body": "🌸✨ Happy International Women’s Day! ✨🌸" },
+      { "id": 4, "date": "03.08", "holidayId": "03.08", "name": "International Women's Day", "body": "Happy International Women’s Day!" }
+    ]
+}
 }
