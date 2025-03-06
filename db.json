@@ -12,24 +12,7 @@
   "holidays":{
     "holidays":[
       {"id":"birthday","name":"Happy Birthday","name_ru":"День Рождения"},
-      {"id":"01.01","name":"New Year","name_ru":"Новый год"},
-      {"id":"01.07","name":"Christmas (Orthodox)","name_ru":"Рождество Христово (Православие)"},
-      {"id":"01.14","name":"Theophany (Old Style)","name_ru":"Крещение Господне (Старый стиль)"},
-      {"id":"01.25","name":"Tatiana Day","name_ru":"Татьянин день"},
-      {"id":"02.23","name":"Defender of the Fatherland Day","name_ru":"День защитника Отечества"},
-      {"id":"03.08","name":"International Women's Day","name_ru":"Международный женский день"},
-      {"id":"03.21","name":"International Day of Forests","name_ru":"Международный день лесов"},
-      {"id":"04.12","name":"Cosmonautics Day","name_ru":"День космонавтики"},
-      {"id":"05.01","name":"Orthodox Easter (varies)","name_ru":"Пасха (Православная)"},
-      {"id":"05.09","name":"Victory Day","name_ru":"День Победы"},
-      {"id":"06.12","name":"Day of Russia","name_ru":"День России"},
-      {"id":"07.08","name":"Day of Family, Love and Faithfulness","name_ru":"День семьи, любви и верности"},
-      {"id":"09.01","name":"Day of Knowledge","name_ru":"День знаний"},
-      {"id":"11.04","name":"Unity Day","name_ru":"День народного единства"},
-      {"id":"12.12","name":"Constitution Day","name_ru":"День конституции"},
-      {"id":"05.04","name":"Eid al-Fitr (End of Ramadan)","name_ru":"Ураза-Байрам (окончание Рамадана)"},
-      {"id":"10.13","name":"Eid al-Adha (Feast of Sacrifice)","name_ru":"Курбан-Байрам (Праздник жертвоприношения)"},
-      {"id":"03.05","name":"Mawlid an-Nabi (Prophet Muhammad's Birthday)","name_ru":"Мавлид ан-Наби (День рождения пророка Мухаммеда)"}
+      {"id":"01.01","name":"New Year","name_ru":"Новый год"}
     ]
   },
   "postcards":{
